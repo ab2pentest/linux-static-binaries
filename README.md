@@ -1,6 +1,6 @@
 # linux-static-binaries (2022-01-17)
 
-This repo contains most of statically-linked binaries for linux, as sometimes these are missing in some systems.
+This repo contains most of statically-linked binaries of linux, as sometimes these are missing in some systems.
 
 Saved and downloaded from [BusyBox](https://busybox.net/downloads/binaries/)
 
